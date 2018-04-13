@@ -1,0 +1,26 @@
+{
+  "name": "networking-with-node-sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "net-watcher-json-client.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorhazbun/networking-with-node-sockets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorhazbun/networking-with-node-sockets/issues"
+  },
+  "homepage": "https://github.com/victorhazbun/networking-with-node-sockets#readme",
+  "devDependencies": {
+    "mocha": "5.1.0"
+  }
+}
